@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/random-number/static/js/main.707ab19f.js",
-    "index.html": "/random-number/index.html",
-    "main.707ab19f.js.map": "/random-number/static/js/main.707ab19f.js.map"
+    "main.js": "/JavaScript/static/js/main.cbbee0c6.js",
+    "index.html": "/JavaScript/index.html",
+    "main.cbbee0c6.js.map": "/JavaScript/static/js/main.cbbee0c6.js.map"
   },
   "entrypoints": [
-    "static/js/main.707ab19f.js"
+    "static/js/main.cbbee0c6.js"
   ]
 }
