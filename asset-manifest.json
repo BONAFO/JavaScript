@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/random-number/static/js/main.5f951278.js",
-    "index.html": "/random-number/index.html",
-    "main.5f951278.js.map": "/random-number/static/js/main.5f951278.js.map"
+    "main.js": "/JavaScript/random-number/static/js/main.5f951278.js",
+    "index.html": "/JavaScript/random-number/index.html",
+    "main.5f951278.js.map": "/JavaScript/random-number/static/js/main.5f951278.js.map"
   },
   "entrypoints": [
     "static/js/main.5f951278.js"
