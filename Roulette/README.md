@@ -15,4 +15,4 @@ This is a local build, to use it just:
 
 To test the app:
 
- -https://bonafo.github.io/JavaScript/#/random-number
+ -https://bonafo.github.io/JavaScript/#/games/roulette
