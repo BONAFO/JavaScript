@@ -9,6 +9,8 @@ First game module. A simple roulette system.
 This is a local build, to use it just:
 
  -Git clone
+ 
+ https://github.com/BONAFO/JavaScript/tree/main/Roulette
 
  -Run npm i or npm install
 
