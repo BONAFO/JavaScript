@@ -1,0 +1,95 @@
+.btn-red-selected{
+    background: radial-gradient(circle, rgba(159,37,37,1) 0%, rgba(147,212,189,1) 100%);
+}
+
+.btn-black-selected{
+    background: radial-gradient(circle, rgb(0, 0, 0) 0%, rgba(147,212,189,1) 100%);
+}
+
+.btn-0-selected{
+    background: radial-gradient(circle, rgba(198,244,142,1) 0%, rgba(101,165,166,1) 100%);
+}
+
+.btn-oddeven-selected{
+    background: radial-gradient(circle, rgba(121,212,199,1) 0%, rgba(48,48,48,1) 100%);
+}
+
+.btn-grp-selected{
+    background: radial-gradient(circle, rgba(129,117,191,1) 0%, rgba(95,181,169,1) 100%);
+}
+
+.btn-grp-numb{
+    background-color: #8175bf;
+    color: black;
+}
+
+.btn-0-numb{
+    background-color: #c6f48e;
+    color: black;
+}
+
+.btn-black-numb{
+    background-color: #242424;
+    color: red;
+}
+
+
+.btn-red-numb{
+    background-color: #e98282;
+    color: black;
+}
+
+.btn-oddeven-numb{
+    background-color: #79D4C7;
+    color: black;
+    
+}
+
+
+
+.btn-rules{
+    background-color: transparent;
+    border: 2px solid #0dcaf0;
+    color: #0dcaf0;
+}
+.btn-play{
+    background-color: transparent;
+    border: 2px solid #198754;
+    color: #198754;
+}
+.btn-back{
+    background-color: transparent;
+    border: 2px solid #dc3545;
+    color: #dc3545;
+}
+
+.input-style{
+     background-color: transparent;
+     color: #198754;
+}
+
+.text-modal{
+    color: #e4e4e4;
+}
+
+
+.text-deb-color{
+    color: #dc3545;
+}
+
+.text-money-color{
+    color: #198754;
+}
+
+
+.text-font{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.cmd-font{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.numb-font{
+    font-family: 'Roboto Condensed', sans-serif;
+}

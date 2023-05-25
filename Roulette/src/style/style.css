@@ -1,0 +1,12 @@
+.t-shadow-basic{
+    text-shadow: 2px 2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, -2px -2px 0 #000000, 2px 0px 0 #000000, 0px 2px 0 #000000, -2px 0px 0 #000000, 0px -2px 0 #000000, 2px 2px 3px rgba(206, 89, 55, 0.45);
+}
+
+
+.btn-bet{
+    color: #ffffff;
+    font-size : 3vh;
+    width: 20vw;
+    height: 5vh;
+    background-color: #242424;
+}

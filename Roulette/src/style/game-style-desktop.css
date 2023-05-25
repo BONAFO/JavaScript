@@ -1,0 +1,105 @@
+.basic-number-desk {
+    color: #ffffff;
+    font-size: 5vh;
+    width: 17.5vw;
+    /* height: 6.5vh; */
+    background-color: #242424;
+}
+
+.number-0-desk {
+    width: 70vw;
+    /* height: 7.5vh; */
+}
+
+
+.num-cont-desk {
+    width: 100%;
+
+}
+
+.bnd-num-desk {
+    width: 10%;
+}
+
+
+.clred-num-desk {
+    width: 10%;
+}
+
+.clblack-num-desk {
+    width: 10%;
+}
+
+
+.btnodd-num-desk {
+    width: 10%;
+}
+
+.btneven-num-desk {
+    width: 10%;
+}
+
+.command-container-desk {
+    float: right;
+    bottom: 0vh;
+    background-color: #0000004c;
+    width: 30%;
+    height: 100vh;
+    z-index: -1;
+}
+
+.cmdbtn-desk {
+    position: fixed;
+    font-size: 4vh;
+}
+
+
+.cmd-back-desk {
+    bottom: 5%;
+    right: 22%;
+}
+
+.cmd-play-desk {
+    bottom: 5%;
+    right: 1%;
+}
+
+.cmd-rules-desk{
+    bottom: 21%;
+    right: 11%;
+}
+
+.money-desk {
+    position: fixed;
+    font-size: 3.5vh;
+    top: 0%;
+    left: 70.5%;
+    color: red;
+}
+
+.winner-cont-desk {
+    position: fixed;
+    bottom: 5%;
+    right: 10%;
+    min-height: 12vh;
+    max-height: 12vh;
+    width: fit-content;
+    border: .2vh solid red;
+    padding: .5vh;
+    text-align: center;
+}
+
+
+.winner-basic-desk {
+    font-size: 4vh;
+
+}
+
+.winner-txt-desk {
+    color: red;
+}
+
+.winner-numb-desk {
+    color: red;
+}
+

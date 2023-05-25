@@ -1,0 +1,31 @@
+.modal-titl-mob {
+    text-align: center;
+    font-size: 4.5vh;
+}
+
+.your-money-mob{
+    font-size: 2.5vh;
+    text-align: center;
+    margin: 0vh 0vw 3vh 0vw;
+}
+
+
+.input-mob {
+    font-size: 2.5vh;
+}
+
+.btn-basic-mob {
+    font-size: 2.5vh;
+
+}
+
+.btn-clear-mob {
+    width: 100%;
+    margin: 3vh 0vw 3vh 0vw;
+}
+
+
+.btn-exit-mob {
+    width: 100%;
+    margin: 3vh 0vw 0vh 0vw;
+}

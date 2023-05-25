@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+/* font-family: 'Titillium Web', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+/* font-family: 'Roboto Condensed', sans-serif; */
+
+
+
+  body {
+    background: linear-gradient(90deg,
+            rgba(42, 41, 41, 1) 0%,
+            rgba(34, 34, 34, 1) 10%,
+            rgba(32, 32, 32, 1) 20%,
+            rgba(29, 29, 29, 1) 30%,
+            rgba(0, 0, 0, 1) 50%,
+            rgba(29, 29, 29, 1) 70%,
+            rgba(32, 32, 32, 1) 80%,
+            rgba(34, 34, 34, 1) 90%,
+            rgba(42, 41, 41, 1) 100%);
+
+} 
