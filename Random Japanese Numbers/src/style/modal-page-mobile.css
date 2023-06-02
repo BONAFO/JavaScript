@@ -1,0 +1,51 @@
+.modal-mob-p003 {
+    padding: 5% 2%;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: fit-content;
+    border-radius: 1%;
+}
+
+.back-btn-mob-p003 {
+    position: fixed;
+    border: none;
+    top: 0%;
+    left: 0%;
+    font-size: 1.5rem;
+    z-index: 10;
+}
+
+
+.number-mob-p003 {
+    display: inline-block;
+    text-align: center;
+    font-size: 2.5rem;
+    width: 100%;
+    max-width: 100%;
+    margin: 4% 0%;
+}
+
+.text-msj-mob-p003 {
+    margin: 3% 0% 2% 0%;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.romaji-text-mob-p003 {
+    margin: 0% 0% 4% 0%;
+}
+
+.inp-modal-mob-p003 {
+    padding: 1%;
+    font-size: 1.5rem;
+}
+
+.btn-modal-mob-p003 {
+    width: 100%;
+    font-size: 2rem;
+    transition: background-color .3s;
+    margin: 2% 0% 0% 0%;
+}
+
+

@@ -1,0 +1,64 @@
+.modal-desk-p003 {
+    padding: 5% 2%;
+    top: 50%;
+    left: 50%;
+    width: 55%;
+    height: fit-content;
+    border-radius: 1%;
+}
+
+.back-btn-desk-p003 {
+    position: fixed;
+    top: 3%;
+    left: 0%;
+    font-size: 1.5rem;
+    padding: 1.5% 2%;
+    margin: 0% 1%;
+    z-index: 10;
+}
+
+.back-btn-desk-p003:hover {
+    color: #ffffff;
+    background-color: #c93131;
+    transition: background-color .3s;
+}
+
+.number-desk-p003 {
+    position: fixed;
+    top: 1%;
+    text-align: center;
+    font-size: 4rem;
+    width: 100%;
+    max-width: 100%;
+}
+
+.text-msj-desk-p003 {
+    margin: 3% 0% 2% 0%;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.romaji-text-desk-p003 {
+    margin: 0% 0% 4% 0%;
+}
+
+.inp-modal-desk-p003 {
+    padding: 1%;
+    font-size: 2.5rem;
+}
+
+.btn-modal-desk-p003 {
+    width: 100%;
+    font-size: 2.5rem;
+    transition: background-color .3s;
+    margin: 2% 0% 0% 0%;
+}
+
+
+.btn-modal-show-desk-p003:hover {
+    background-color: #c9313109;
+}
+
+.btn-modal-next-desk-p003:hover {
+    background-color: #85d08509;
+}

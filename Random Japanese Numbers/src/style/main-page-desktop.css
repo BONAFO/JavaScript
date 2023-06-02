@@ -1,0 +1,44 @@
+.title-desk-p003 {
+    font-size: 9vh;
+    margin: 0% 0% 2% 0%;
+}
+
+
+
+
+.btn-type-desk-p003 {
+    font-size: 4rem;
+    border: none;
+    width: 100%;
+    text-align: center;
+    margin: 1% 0%;
+    transition: background-color .3s;
+}
+
+.label-inp-desk-p003 {
+    font-size: 3rem;
+}
+
+.inp-desk-p003 {
+    font-size: 2.5rem;
+    width: 80%;
+    text-align: center;
+}
+
+.btn-play-desk-p003 {
+    font-size: 4rem;
+    text-align: center;
+    margin: 1% 0%;
+    width: 100%;
+    border: none;
+    transition: background-color .3s;
+}
+
+
+.btn-play-desk-p003:hover {
+    background-color: #96c4ea05;
+}
+
+.btn-type-desk-p003:hover {
+    background-color: #96c4ea05;
+}

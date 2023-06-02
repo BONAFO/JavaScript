@@ -1,0 +1,33 @@
+.title-p003 {
+    text-align: center;
+    color: #96c4ea;
+    font-family: 'Cherry Bomb One', cursive;
+}
+
+
+.btn-type-p003 {
+    background-color: transparent;
+    color: #000000;
+    font-family: 'Monomaniac One', sans-serif;
+}
+
+.btn-type-selected-p003 {
+    color: #b8ecff;
+}
+
+.label-inp-p003 {
+    font-family: 'Monomaniac One', sans-serif;
+    color: #96c4ea;
+}
+
+.inp-p003 {
+    font-family: 'Monomaniac One', sans-serif;
+    color: #96c4ea;
+    background-color: transparent;
+}
+
+.btn-play-p003 {
+    font-family: 'Monomaniac One', sans-serif;
+    color: #85d085;
+    background-color: transparent;
+}

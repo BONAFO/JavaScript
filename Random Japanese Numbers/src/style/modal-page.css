@@ -1,0 +1,57 @@
+.modal-p003 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(90deg,
+            rgba(42, 41, 41, 1) 0%,
+            rgba(34, 34, 34, 1) 10%,
+            rgba(32, 32, 32, 1) 20%,
+            rgba(29, 29, 29, 1) 30%,
+            rgba(0, 0, 0, 1) 50%,
+            rgba(29, 29, 29, 1) 70%,
+            rgba(32, 32, 32, 1) 80%,
+            rgba(34, 34, 34, 1) 90%,
+            rgba(42, 41, 41, 1) 100%);
+    box-shadow: 24;
+}
+
+.back-btn-p003 {
+    background-color: transparent;
+    border: 0.3rem solid #c93131;
+    color: #c93131;
+    display: inline;
+
+}
+
+.number-p003 {
+
+    color: #b8ecff;
+    font-family: 'Monomaniac One', sans-serif;
+}
+
+.text-msj-p003 {
+    color: #b8ecff;
+    font-family: 'Monomaniac One', sans-serif;
+    opacity: 0;
+    transition: opacity .3s;
+}
+
+.inp-modal-p003 {
+    width: 100%;
+    background-color: transparent;
+    color: #b8ecff;
+    font-family: 'Monomaniac One', sans-serif;
+    text-align: center;
+}
+
+.btn-modal-p003 {
+    font-family: 'Monomaniac One', sans-serif;
+    background-color: transparent;
+    border: none;
+}
+
+.btn-modal-next-p003{
+    color: #85d085;
+}
+.btn-modal-show-p003{
+    color: #c93131;
+}

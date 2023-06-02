@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tsukimi+Rounded&display=swap');
+/*  font-family: 'Tsukimi Rounded', sans-serif;  */
+
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+
+/*  font-family: 'Cherry Bomb One', cursive;  */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Monomaniac+One&display=swap');
+
+/* font-family: 'Monomaniac One', sans-serif; */
+
+ body {
+    background: linear-gradient(90deg,
+            rgba(42, 41, 41, 1) 0%,
+            rgba(34, 34, 34, 1) 10%,
+            rgba(32, 32, 32, 1) 20%,
+            rgba(29, 29, 29, 1) 30%,
+            rgba(0, 0, 0, 1) 50%,
+            rgba(29, 29, 29, 1) 70%,
+            rgba(32, 32, 32, 1) 80%,
+            rgba(34, 34, 34, 1) 90%,
+            rgba(42, 41, 41, 1) 100%);
+
+}
+
+.t-shadow-basic{
+    text-shadow: 2px 2px 0 #5e5e5e, 2px -2px 0 #5e5e5e, -2px 2px 0 #5e5e5e, -2px -2px 0 #5e5e5e, 2px 0px 0 #5e5e5e, 0px 2px 0 #5e5e5e, -2px 0px 0 #5e5e5e, 0px -2px 0 #5e5e5e, 2px 2px 3px rgba(206, 89, 55, 0.45);
+}
+
+
+.t-shadow-blacked{
+    text-shadow: 2px 2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, -2px -2px 0 #000000, 2px 0px 0 #000000, 0px 2px 0 #000000, -2px 0px 0 #000000, 0px -2px 0 #000000, 2px 2px 3px rgba(206, 89, 55, 0.45);
+
+}
