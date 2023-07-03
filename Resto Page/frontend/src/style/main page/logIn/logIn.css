@@ -1,0 +1,8 @@
+.login-show-password{
+    border: none;
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("https://cdn.icon-icons.com/icons2/2065/PNG/512/view_show_icon_124811.png");
+    cursor: pointer;
+}

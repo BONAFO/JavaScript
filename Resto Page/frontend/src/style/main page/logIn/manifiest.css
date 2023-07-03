@@ -1,0 +1,15 @@
+/* GLOBAL  */
+@import url("../reusables/reusables.css");
+@import url("../reusables/reusables-desk.css");
+@import url("../reusables/reusables-mob.css");
+@import url("../reusables/text-style.css");
+
+/* LOGIN */
+@import url("../logIn/logIn.css");
+@import url("../logIn/logIn-desk.css");
+@import url("../logIn/logIn-mob.css");
+
+
+/* FONTS */
+@import url("../../fonts/Dancing Script.css");
+@import url("../../fonts/Lobster.css");

@@ -1,0 +1,13 @@
+
+
+.login-show-password-desk{
+    position: fixed;
+    padding: 2vh 0vw 2vh 5vw ;
+    background-size: 70% 150%;
+
+}
+
+.login-input-desk{
+    margin: 0vw 0vw 0vw 2vw;
+    width: 80% !important;
+}

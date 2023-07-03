@@ -1,0 +1,28 @@
+.main-title {
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  color: #bab9b9;
+  text-shadow: #000000 3px 5px 2px, 2px 2px 2px rgba(206, 89, 55, 0.72);
+}
+
+.main-background {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-box {
+  background-color: #bababa99;
+  text-align: center;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  box-shadow: 5px 5px 15px 5px #000000;
+}
+
+.main-input{
+    background-color: #ffffff99;
+}

@@ -1,0 +1,22 @@
+.main-title-desk {
+  font-size: 3vw;
+}
+
+.main-box-desk {
+  display: inline-flex;
+  width: 40vw;
+  height: 70vh;
+}
+
+.main-box-title-desk {
+  font-size: 230%;
+}
+
+.tags-desk {
+  font-size: 200%;
+}
+
+.main-input-desk {
+  width: 90%;
+  font-size: 200%;
+}
