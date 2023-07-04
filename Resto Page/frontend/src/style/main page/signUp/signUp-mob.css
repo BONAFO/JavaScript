@@ -1,0 +1,28 @@
+.signup-show-password-mob {
+  position: absolute;
+  padding: 2vh 0vw 2vh 12vw;
+  background-size: 100%;
+}
+
+.signup-main-box-mob {
+    height: 150vh;
+}
+
+.signup-btn-mob {
+  font-size: 150%;
+  width: 100%;
+  text-align: center;
+  margin: 2vh 0vw 0vh 0vw;
+  padding: 1vh 0vw;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.signup-input-mob {
+  width: 80%;
+  margin: 0 0 0 3vw;
+}
+
+.signup-tag-obli-mob{
+    font-size: 3vh;
+}

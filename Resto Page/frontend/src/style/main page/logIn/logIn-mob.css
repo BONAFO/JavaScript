@@ -2,11 +2,12 @@
   
 
 .login-show-password-mob{
-    position: fixed;
+    position: absolute;
     padding: 2vh 0vw 2vh 12vw ;
     background-size: 100%;
 
 }
+
 
 .login-btn-mob{
     font-size: 150%;

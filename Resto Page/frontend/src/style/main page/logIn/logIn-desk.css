@@ -1,11 +1,12 @@
 
 
 .login-show-password-desk{
-    position: fixed;
+    position: absolute;
     padding: 2vh 0vw 2vh 5vw ;
     background-size: 70% 150%;
 
 }
+
 
 .login-input-desk{
     margin: 0vw 0vw 0vw 2vw;
@@ -20,4 +21,9 @@
     padding: 1vh 0vw;
     cursor: pointer;
     transition: background-color .3s;
+}
+
+
+.signup-tag-obli-desk{
+    font-size: 6vh;
 }

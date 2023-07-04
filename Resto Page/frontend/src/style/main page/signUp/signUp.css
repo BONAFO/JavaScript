@@ -1,3 +1,39 @@
-.main-title{
-    color: red;
+.signup-main-background{
+    height: 180%;
 }
+
+.signup-show-password {
+    border: none;
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+  }
+  
+  .signup-btn-signup {
+    background-color: #6bc272c1;
+    border: none;
+  }
+  .signup-btn-signup:hover {
+    background-color: #75d17c;
+  }
+  
+  .signup-btn-login {
+    background-color: #6b7fc2c1;
+    border: none;
+  }
+  
+  .signup-btn-login:hover {
+    background-color: #869ff2;
+  }
+  
+
+  .signup-btn-clear {
+    background-color: #c26b6bc1;
+    border: none;
+  }
+  
+  .signup-btn-clear:hover {
+    background-color: #f05e5e;
+  }
+  

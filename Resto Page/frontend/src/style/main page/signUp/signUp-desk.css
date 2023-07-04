@@ -1,0 +1,33 @@
+
+
+.signup-show-password-desk{
+    position: absolute;
+    padding: 2vh 0vw 2vh 5vw ;
+    background-size: 70% 150%;
+
+}
+
+
+.signup-main-box-desk{
+    height: 160vh;
+}
+
+
+.signup-input-desk{
+    margin: 0vw 0vw 0vw 2vw;
+    width: 80% !important;
+}
+
+.signup-btn-desk{
+    font-size: 150%;
+    width: 100%;
+    text-align: center;
+    margin: 2vh 0vw 0vh 0vw ;
+    padding: 1vh 0vw;
+    cursor: pointer;
+    transition: background-color .3s;
+}
+
+.signup-tag-obli-desk{
+    font-size: 3vh;
+}
