@@ -1,3 +1,23 @@
-.main-title-mob{
-    font-size:6vh;
+.main-title-mob {
+  font-size: 6vh;
+}
+
+.main-box-mob {
+  display: inline-flex;
+  width: 90vw;
+  height: 70vh;
+}
+
+.main-box-title-mob {
+  font-size: 180%;
+}
+
+.tags-mob {
+  font-size: 160%;
+}
+
+.main-input-mob {
+  width: 90%;
+  background-color: #ffffff51;
+  font-size: 180%;
 }

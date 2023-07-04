@@ -11,3 +11,13 @@
     margin: 0vw 0vw 0vw 2vw;
     width: 80% !important;
 }
+
+.login-btn-desk{
+    font-size: 150%;
+    width: 100%;
+    text-align: center;
+    margin: 2vh 0vw 0vh 0vw ;
+    padding: 1vh 0vw;
+    cursor: pointer;
+    transition: background-color .3s;
+}

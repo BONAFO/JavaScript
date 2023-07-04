@@ -1,0 +1,13 @@
+.msj-cont{
+  position: absolute;
+  z-index: 10000000;
+  transition: all .5s;
+}
+
+.msj{
+  font-family: 'Barlow', sans-serif;
+}
+
+.msj-type-err{
+  background-color: #c94545;
+}

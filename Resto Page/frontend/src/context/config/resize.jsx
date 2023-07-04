@@ -6,9 +6,31 @@ export const useRezise = () => useContext(RezContext);
 
 const ResizeProvider = ({children}) => {
   const [device, setDevice] = useState(isMobile() ? "mob" : "desk");
+  
+
+const startAddon =(addon)=>{
+switch(addon){
+  case "zoom":
+
+    break;
+}  
+}
+
+const addons =()=>{
+    let addonsID = JSON.parse(sessionStorage.getItem("addons"));  
+    if(addonsID !== null && Array.isArray(addonsID)){
+      addonsID = addonsID.split(",");
+      addonsID.map(addon => {
+        
+      })
+    }
+  // switch(){
+      
+  //   }
+}
 
   window.onresize = () => {
-
+    addons();
     setDevice(isMobile() ? "mob" : "desk");
   };
 

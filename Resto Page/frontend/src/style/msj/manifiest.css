@@ -1,0 +1,21 @@
+/* GLOBAL  */
+/* @import url("../reusables/reusables.css");
+@import url("../reusables/reusables-desk.css");
+@import url("../reusables/reusables-mob.css");
+@import url("../reusables/text-style.css"); */
+
+/* LOGIN */
+@import url("../msj/msj.css");
+@import url("../msj/msj-desk.css");
+@import url("../msj/msj-mob.css");
+
+
+/* FONTS */
+
+@import url("../fonts/Barlow.css");
+/* 
+
+@import url("../../fonts/Dancing Script.css");
+@import url("../../fonts/Josefin.css"); 
+
+*/

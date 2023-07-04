@@ -1,8 +1,24 @@
-.login-show-password{
-    border: none;
-    background-color: transparent;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-image: url("https://cdn.icon-icons.com/icons2/2065/PNG/512/view_show_icon_124811.png");
-    cursor: pointer;
+.login-show-password {
+  border: none;
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.login-btn-login {
+  background-color: #6bc272c1;
+  border: none;
+}
+.login-btn-login:hover {
+  background-color: #75d17c;
+}
+
+.login-btn-signup {
+  background-color: #6b7fc2c1;
+  border: none;
+}
+
+.login-btn-signup:hover {
+  background-color: #869ff2;
 }
